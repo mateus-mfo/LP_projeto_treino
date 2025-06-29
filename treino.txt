@@ -1,0 +1,9 @@
+TREINO 1 Peito|2|2
+TREINO 1 Costa|2|2
+TREINO 1 Perna|2|2
+TREINO 2 Ombro|4|4
+TREINO 2 Braco|4|4
+TREINO 2 Peito|4|4
+TREINO 4 Ombro|1|1
+TREINO 4 Braco|2|2
+TREINO 4 Peito|2|2
